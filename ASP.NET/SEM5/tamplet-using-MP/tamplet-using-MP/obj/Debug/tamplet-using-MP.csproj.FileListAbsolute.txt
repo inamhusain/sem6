@@ -1,0 +1,6 @@
+E:\c#\tamplet-using-MP\tamplet-using-MP\bin\tamplet-using-MP.dll.config
+E:\c#\tamplet-using-MP\tamplet-using-MP\bin\tamplet-using-MP.dll
+E:\c#\tamplet-using-MP\tamplet-using-MP\bin\tamplet-using-MP.pdb
+E:\c#\tamplet-using-MP\tamplet-using-MP\obj\Debug\tamplet-using-MP.csprojResolveAssemblyReference.cache
+E:\c#\tamplet-using-MP\tamplet-using-MP\obj\Debug\tamplet-using-MP.dll
+E:\c#\tamplet-using-MP\tamplet-using-MP\obj\Debug\tamplet-using-MP.pdb

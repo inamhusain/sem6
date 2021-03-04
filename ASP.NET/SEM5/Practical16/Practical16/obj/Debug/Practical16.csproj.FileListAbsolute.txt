@@ -1,0 +1,6 @@
+E:\c#\Practical16\Practical16\bin\Practical16.dll.config
+E:\c#\Practical16\Practical16\bin\Practical16.dll
+E:\c#\Practical16\Practical16\bin\Practical16.pdb
+E:\c#\Practical16\Practical16\obj\Debug\Practical16.dll
+E:\c#\Practical16\Practical16\obj\Debug\Practical16.pdb
+E:\c#\Practical16\Practical16\obj\Debug\Practical16.csprojResolveAssemblyReference.cache

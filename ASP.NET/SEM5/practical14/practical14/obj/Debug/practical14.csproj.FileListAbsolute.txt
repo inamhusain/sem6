@@ -1,0 +1,6 @@
+E:\c#\practical14\practical14\bin\practical14.dll.config
+E:\c#\practical14\practical14\bin\practical14.dll
+E:\c#\practical14\practical14\bin\practical14.pdb
+E:\c#\practical14\practical14\obj\Debug\practical14.csprojResolveAssemblyReference.cache
+E:\c#\practical14\practical14\obj\Debug\practical14.dll
+E:\c#\practical14\practical14\obj\Debug\practical14.pdb

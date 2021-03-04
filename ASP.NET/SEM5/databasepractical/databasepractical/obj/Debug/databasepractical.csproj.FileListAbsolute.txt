@@ -1,0 +1,6 @@
+E:\c#\databasepractical\databasepractical\bin\databasepractical.dll.config
+E:\c#\databasepractical\databasepractical\bin\databasepractical.dll
+E:\c#\databasepractical\databasepractical\bin\databasepractical.pdb
+E:\c#\databasepractical\databasepractical\obj\Debug\databasepractical.csprojResolveAssemblyReference.cache
+E:\c#\databasepractical\databasepractical\obj\Debug\databasepractical.dll
+E:\c#\databasepractical\databasepractical\obj\Debug\databasepractical.pdb

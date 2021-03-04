@@ -1,0 +1,12 @@
+E:\c#\practical4\practical4\bin\practical4.dll.config
+E:\c#\practical4\practical4\bin\practical4.dll
+E:\c#\practical4\practical4\bin\practical4.pdb
+E:\c#\practical4\practical4\obj\Debug\practical4.csprojResolveAssemblyReference.cache
+E:\c#\practical4\practical4\obj\Debug\practical4.dll
+E:\c#\practical4\practical4\obj\Debug\practical4.pdb
+E:\SEM 5\c#\practical4\practical4\bin\practical4.dll.config
+E:\SEM 5\c#\practical4\practical4\bin\practical4.dll
+E:\SEM 5\c#\practical4\practical4\bin\practical4.pdb
+E:\SEM 5\c#\practical4\practical4\obj\Debug\practical4.csprojResolveAssemblyReference.cache
+E:\SEM 5\c#\practical4\practical4\obj\Debug\practical4.dll
+E:\SEM 5\c#\practical4\practical4\obj\Debug\practical4.pdb

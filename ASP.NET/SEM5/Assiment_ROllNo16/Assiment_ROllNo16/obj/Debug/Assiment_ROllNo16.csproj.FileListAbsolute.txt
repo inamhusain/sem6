@@ -1,0 +1,6 @@
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\bin\Assiment_ROllNo16.dll.config
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\bin\Assiment_ROllNo16.dll
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\bin\Assiment_ROllNo16.pdb
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\obj\Debug\Assiment_ROllNo16.csprojResolveAssemblyReference.cache
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\obj\Debug\Assiment_ROllNo16.dll
+E:\c#\Assiment_ROllNo16\Assiment_ROllNo16\obj\Debug\Assiment_ROllNo16.pdb

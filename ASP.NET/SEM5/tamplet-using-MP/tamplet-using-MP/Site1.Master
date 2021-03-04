@@ -1,0 +1,79 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="tamplet_using_MP.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <%-- LINKS --%>
+  <link rel="stylesheet" href="css/bs.css">
+  <link rel="stylesheet" href="css/home.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+    
+  <title>HAVMORE</title>
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+
+
+ <body data-spy="scroll" data-target=".navbar" data-offset="0">
+    <form id="form1" runat="server">
+     
+          <%-- Header --%>
+<div class="outnav">
+    <nav class="navbar navbar-inverse affix-top">
+    <div class="container-fluid">
+        <div class="navbar-header">
+        <a class="navbar-brand" href="https://inamhusain.github.io/">HAVMOR</a>
+        </div>
+        <ul class="nav navbar-nav">
+            <li ><a href="home.aspx">HOME</a></li>
+            <li><a href="produtc.aspx">PRODUTCS</a></li>
+            <li><a href="what.aspx">WHAT'S NEW</a></li>
+             <li><a href="history.aspx">OUR HISTORY</a></li>
+            <li><a href="contact.aspx">CONTACT US</a></li>
+        </ul>
+    </div>
+   </nav>
+</div>
+
+        <%-- Content --%>
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+
+       
+         <%-- footer --%>
+  <div class="footer">
+    <div class="innerfooter">
+     <div class="faddress">
+       <h1 class="footerh1">ADDRESS</h1>
+       <h2 class="footerh2">Havmor Icecream Pvt. Ltd<br>
+          2nd floor, Commerce House 4,<br>
+          besides shell petrol pump,<br>
+          Prahladnagar – anandnagar road,<br>
+          Ahmedabad – 380051<br>
+          Phone number : 7930909010</h2>
+     </div>
+
+     <div class="fc">
+       <div class="info">
+         <h1 class="fname">Inamhusain.</h1>
+          <h2 class="wn">Whatsapp No : 9104581490</h2>
+        </div>
+        <div class="insta"> 
+          <img src="img/instalogo.png" class="ilogo"><a href="https://inamhusain.github.io" class="F">Follow me on INSTAGRAM</a>
+        </div>
+     </div>
+   </div>
+  </div>    
+ 
+    </form>
+</body>
+</html>

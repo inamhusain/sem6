@@ -1,0 +1,6 @@
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\bin\practical3_usingQueryString.dll.config
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\bin\practical3_usingQueryString.dll
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\bin\practical3_usingQueryString.pdb
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\obj\Debug\practical3_usingQueryString.csprojResolveAssemblyReference.cache
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\obj\Debug\practical3_usingQueryString.dll
+E:\c#\practical3_usingQueryString\practical3_usingQueryString\obj\Debug\practical3_usingQueryString.pdb

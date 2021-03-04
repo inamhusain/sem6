@@ -1,0 +1,6 @@
+E:\c#\practical 5\practical 5\bin\practical 5.dll.config
+E:\c#\practical 5\practical 5\bin\practical 5.dll
+E:\c#\practical 5\practical 5\bin\practical 5.pdb
+E:\c#\practical 5\practical 5\obj\Debug\practical 5.csprojResolveAssemblyReference.cache
+E:\c#\practical 5\practical 5\obj\Debug\practical 5.dll
+E:\c#\practical 5\practical 5\obj\Debug\practical 5.pdb

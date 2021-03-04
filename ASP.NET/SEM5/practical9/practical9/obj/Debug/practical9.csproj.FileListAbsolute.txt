@@ -1,0 +1,6 @@
+E:\c#\practical9\practical9\bin\practical9.dll.config
+E:\c#\practical9\practical9\bin\practical9.dll
+E:\c#\practical9\practical9\bin\practical9.pdb
+E:\c#\practical9\practical9\obj\Debug\practical9.csprojResolveAssemblyReference.cache
+E:\c#\practical9\practical9\obj\Debug\practical9.dll
+E:\c#\practical9\practical9\obj\Debug\practical9.pdb

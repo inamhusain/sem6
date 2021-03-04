@@ -1,0 +1,5 @@
+E:\c#\practical10\practical10\bin\practical10.dll.config
+E:\c#\practical10\practical10\bin\practical10.dll
+E:\c#\practical10\practical10\bin\practical10.pdb
+E:\c#\practical10\practical10\obj\Debug\practical10.dll
+E:\c#\practical10\practical10\obj\Debug\practical10.pdb

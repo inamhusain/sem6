@@ -1,0 +1,6 @@
+E:\c#\practical17\practical17\bin\practical17.dll.config
+E:\c#\practical17\practical17\bin\practical17.dll
+E:\c#\practical17\practical17\bin\practical17.pdb
+E:\c#\practical17\practical17\obj\Debug\practical17.csprojResolveAssemblyReference.cache
+E:\c#\practical17\practical17\obj\Debug\practical17.dll
+E:\c#\practical17\practical17\obj\Debug\practical17.pdb

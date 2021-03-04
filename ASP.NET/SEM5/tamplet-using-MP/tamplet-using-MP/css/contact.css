@@ -1,0 +1,34 @@
+.form-group{margin-left:348px;}
+.outnav{    background-color: rgba(146,145,186,1); height: 100px;}
+.container-fluid{padding-top: 37px;font-weight: 800;letter-spacing: 2px;}
+.navbar-inverse{background: #474646;}
+.innerlogo{height: 200px;}
+.logo{float: right;width: 361px;margin-top: 0px;}
+body{background: slateblue; position: relative}
+
+
+ 
+.banner{height: 290px;width: 100%; background: yellowgreen;}
+.bannerh1{width: 551px;margin: 0 auto;height: 37px;padding-top: 111px;font-size: 65px;font-family: fantasy;letter-spacing: 23px;}
+
+
+.lines{}
+.lines1{ background: antiquewhite; font-family: fantasy; letter-spacing: 11px; margin: 0 auto; width: 1137px;margin-top: 25px;}
+.line-a{color: red;}
+.lines2{background: antiquewhite;font-family: fantasy;letter-spacing: 11px;margin: 0 auto;width: 1026px;margin-top: 25px;text-align: center;}
+.lines3{background: antiquewhite;font-family: fantasy;letter-spacing: 11px;margin: 0 auto;width: 849px;margin-top: 25px;margin-bottom: 25px;}
+.lines4{background: antiquewhite;font-family: fantasy;letter-spacing: 11px;margin: 0 auto;margin-top: 100px;margin-bottom: 100px;border:  solid red 7px;}
+
+
+
+.footer{background: #474646;height: 218px;color: white;}
+.faddress{width: 500px;display: inline-block;margin-left: 10px;}
+.footerh1{font-size: 31px;font-weight: 700;letter-spacing: 8px;}
+.footerh2{font-size: 18px;font-weight: 600;word-spacing: 5px;}
+.fc{width: 500px;float: right;margin-top: 0px;}
+.innerfooter{width: 1010px;margin: 0 auto;}
+.ilogo{width: 46px;margin-right: 10px;}
+.f{font-weight: 600;font-size: 28px;color: dodgerblue;FONT-FAMILY: cursive;}
+.fname{FONT-WEIGHT: 600;letter-spacing: 3px;margin-bottom: 19px;font-size: 32PX;FONT-FAMILY: none;}
+.Wn{font-size: 23px;font-weight: 600;FONT-FAMILY: none;}
+.insta{margin-top: 47px;margin-bottom: 16px;}

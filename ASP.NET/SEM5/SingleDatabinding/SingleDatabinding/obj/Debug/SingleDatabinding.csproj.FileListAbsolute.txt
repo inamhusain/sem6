@@ -1,0 +1,6 @@
+E:\c#\SingleDatabinding\SingleDatabinding\bin\SingleDatabinding.dll.config
+E:\c#\SingleDatabinding\SingleDatabinding\bin\SingleDatabinding.dll
+E:\c#\SingleDatabinding\SingleDatabinding\bin\SingleDatabinding.pdb
+E:\c#\SingleDatabinding\SingleDatabinding\obj\Debug\SingleDatabinding.csprojResolveAssemblyReference.cache
+E:\c#\SingleDatabinding\SingleDatabinding\obj\Debug\SingleDatabinding.dll
+E:\c#\SingleDatabinding\SingleDatabinding\obj\Debug\SingleDatabinding.pdb

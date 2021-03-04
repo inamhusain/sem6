@@ -1,0 +1,6 @@
+E:\c#\practical 10 and 11\practical 10 and 11\bin\practical 10 and 11.dll.config
+E:\c#\practical 10 and 11\practical 10 and 11\bin\practical 10 and 11.dll
+E:\c#\practical 10 and 11\practical 10 and 11\bin\practical 10 and 11.pdb
+E:\c#\practical 10 and 11\practical 10 and 11\obj\Debug\practical 10 and 11.csprojResolveAssemblyReference.cache
+E:\c#\practical 10 and 11\practical 10 and 11\obj\Debug\practical 10 and 11.dll
+E:\c#\practical 10 and 11\practical 10 and 11\obj\Debug\practical 10 and 11.pdb

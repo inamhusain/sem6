@@ -1,0 +1,5 @@
+D:\Asp.Net Projects\Inspire task\MasterPageExample\MasterPageExample\bin\MasterPageExample.dll
+D:\Asp.Net Projects\Inspire task\MasterPageExample\MasterPageExample\bin\MasterPageExample.pdb
+D:\Asp.Net Projects\Inspire task\MasterPageExample\MasterPageExample\obj\Debug\ResolveAssemblyReference.cache
+D:\Asp.Net Projects\Inspire task\MasterPageExample\MasterPageExample\obj\Debug\MasterPageExample.dll
+D:\Asp.Net Projects\Inspire task\MasterPageExample\MasterPageExample\obj\Debug\MasterPageExample.pdb

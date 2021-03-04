@@ -1,0 +1,11 @@
+E:\c#\logintest\logintest\bin\logintest.dll.config
+E:\c#\logintest\logintest\bin\logintest.dll
+E:\c#\logintest\logintest\bin\logintest.pdb
+E:\c#\logintest\logintest\obj\Debug\logintest.dll
+E:\c#\logintest\logintest\obj\Debug\logintest.pdb
+E:\SEM 5\c#\logintest\logintest\bin\logintest.dll.config
+E:\SEM 5\c#\logintest\logintest\bin\logintest.dll
+E:\SEM 5\c#\logintest\logintest\bin\logintest.pdb
+E:\SEM 5\c#\logintest\logintest\obj\Debug\logintest.csprojResolveAssemblyReference.cache
+E:\SEM 5\c#\logintest\logintest\obj\Debug\logintest.dll
+E:\SEM 5\c#\logintest\logintest\obj\Debug\logintest.pdb

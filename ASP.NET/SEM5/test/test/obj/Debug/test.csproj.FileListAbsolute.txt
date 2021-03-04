@@ -1,0 +1,6 @@
+E:\c#\test\test\bin\test.dll.config
+E:\c#\test\test\bin\test.dll
+E:\c#\test\test\bin\test.pdb
+E:\c#\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+E:\c#\test\test\obj\Debug\test.dll
+E:\c#\test\test\obj\Debug\test.pdb

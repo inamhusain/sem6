@@ -1,0 +1,66 @@
+﻿body {
+    font-family: 'Mulish', sans-serif;
+    background-color: #e6ddf1;
+}
+.container {
+    height:100vh;
+}
+.col-md-8 {
+   padding-bottom: 4%;
+}
+#login-pak {
+    background-color: #4d774e;
+    border-radius: 200px 200px 200px 1px;
+    	box-shadow: 5px 5px 10px -2px #263824, inset 6px 6px 13px -2px;
+}
+
+#lblUserName {
+    margin-right: 10px;
+	LETTER-SPACING: 2PX;
+	FONT-SIZE: 20PX;
+   	font-weight: 600;
+}
+#lblPassword {
+    margin-right: 16px;
+	LETTER-SPACING: 2PX;
+	FONT-SIZE: 20PX;
+   	font-weight: 600;
+}
+#main-con h1 {
+	font-size: 50px;
+	font-weight: 900;
+	text-transform: uppercase;
+	letter-spacing: 25px;
+    padding: 5%;
+}
+#txtUserName, #txtPassword {
+	border: 2px solid #f1b24a;
+	border-radius: 10px;
+    line-height: 2;
+    text-align: center;
+    background: #263824;
+    color: #f1b24a;
+}
+#txtUserName:focus , #txtPassword:focus {
+   	border-color: #66afe9;
+	outline: 0;
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);
+}
+hr {
+	width: 15%;
+	height: 1px;
+	background-color: #263824;
+	border: 1px solid #263824;
+	border-radius: 5px;
+}
+#btnsubmit {
+	width: 50%;
+	line-height: 2;
+	border-radius: 29px;
+	border: none;
+	background-color: #f1b24a;
+	font-size: 16px;
+	letter-spacing: 3px;
+	font-weight: 900;
+}
+

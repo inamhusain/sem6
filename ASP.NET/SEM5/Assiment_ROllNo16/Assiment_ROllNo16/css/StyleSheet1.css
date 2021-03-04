@@ -1,0 +1,24 @@
+﻿body {
+    	background-color: #f5f5dc;
+        background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);
+
+}
+.btn {
+	border: none;
+	line-height: 40px;
+	margin: 25px;
+	background-color: #fff;
+}
+.lable {
+    font-family: sans-serif;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 30px;
+}
+.textbox {
+    	background-color: #0000;
+	border: none;
+	border-bottom: 1px solid #000;
+}
+}

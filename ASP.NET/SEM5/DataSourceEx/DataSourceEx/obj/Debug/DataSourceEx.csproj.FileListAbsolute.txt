@@ -1,0 +1,6 @@
+E:\c#\DataSourceEx\DataSourceEx\bin\DataSourceEx.dll.config
+E:\c#\DataSourceEx\DataSourceEx\bin\DataSourceEx.dll
+E:\c#\DataSourceEx\DataSourceEx\bin\DataSourceEx.pdb
+E:\c#\DataSourceEx\DataSourceEx\obj\Debug\DataSourceEx.csprojResolveAssemblyReference.cache
+E:\c#\DataSourceEx\DataSourceEx\obj\Debug\DataSourceEx.dll
+E:\c#\DataSourceEx\DataSourceEx\obj\Debug\DataSourceEx.pdb
