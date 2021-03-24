@@ -1,0 +1,6 @@
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\bin\task1_richcontrols_validations.dll.config
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\bin\task1_richcontrols_validations.dll
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\bin\task1_richcontrols_validations.pdb
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\obj\Debug\task1_richcontrols_validations.csprojResolveAssemblyReference.cache
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\obj\Debug\task1_richcontrols_validations.dll
+E:\c#\SEM6\task1_richcontrols_validations\task1_richcontrols_validations\obj\Debug\task1_richcontrols_validations.pdb

@@ -1,0 +1,6 @@
+E:\c#\SEM6\p2\p2\bin\p2.dll.config
+E:\c#\SEM6\p2\p2\bin\p2.dll
+E:\c#\SEM6\p2\p2\bin\p2.pdb
+E:\c#\SEM6\p2\p2\obj\Debug\p2.csprojResolveAssemblyReference.cache
+E:\c#\SEM6\p2\p2\obj\Debug\p2.dll
+E:\c#\SEM6\p2\p2\obj\Debug\p2.pdb

@@ -39,12 +39,12 @@
         <asp:TextBox ID="txtname" runat="server" placeholder="name"></asp:TextBox>
         <asp:Label ID="Label1" runat="server" Text=""></asp:Label>
         <%-- Display="Dynamic" ValidationGroup="submit" --%>
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" Display="Dynamic" Text="*" ValidationGroup="submit" runat="server"  ErrorMessage="Enter NAME" ForeColor="red" ControlToValidate="txtname"></asp:RequiredFieldValidator><br><br>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" Display="Dynamic" Text="*" SetFocusOnError="true" ValidationGroup="submit" runat="server"  ErrorMessage="Enter NAME" ForeColor="red" ControlToValidate="txtname"></asp:RequiredFieldValidator><br><br>
         <asp:CustomValidator  OnServerValidate="csmval" ControlToValidate="txtname" ID="CustomValidator1" runat="server" ErrorMessage="enter valid text"></asp:CustomValidator><br />
         <%-- ClientValidationFunction="vallength" --%>
         <%-- ADDRESS  REQ --%>
         <asp:TextBox ID="txtaddress" runat="server" placeholder="address"></asp:TextBox>
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" Text="*" ErrorMessage="Enter ADDRESS" ForeColor="red" ControlToValidate="txtaddress"></asp:RequiredFieldValidator><br><br>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" Text="*" SetFocusOnError="true" ErrorMessage="Enter ADDRESS" ForeColor="red" ControlToValidate="txtaddress"></asp:RequiredFieldValidator><br><br>
         <%-- email REQ  + regular --%>
         <asp:TextBox ID="txtemail" runat="server" placeholder="Email"></asp:TextBox>
         <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" Text="*" ErrorMessage="Enter EMAIL" ForeColor="red" ControlToValidate="txtemail"></asp:RequiredFieldValidator><br />
