@@ -1,0 +1,6 @@
+E:\c#\SEM6\P5\P5\bin\P5.dll.config
+E:\c#\SEM6\P5\P5\bin\P5.dll
+E:\c#\SEM6\P5\P5\bin\P5.pdb
+E:\c#\SEM6\P5\P5\obj\Debug\P5.csprojResolveAssemblyReference.cache
+E:\c#\SEM6\P5\P5\obj\Debug\P5.dll
+E:\c#\SEM6\P5\P5\obj\Debug\P5.pdb
