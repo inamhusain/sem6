@@ -1,0 +1,6 @@
+E:\c#\SEM6\MenuControlExample\MenuControlExample\bin\MenuControlExample.dll.config
+E:\c#\SEM6\MenuControlExample\MenuControlExample\bin\MenuControlExample.dll
+E:\c#\SEM6\MenuControlExample\MenuControlExample\bin\MenuControlExample.pdb
+E:\c#\SEM6\MenuControlExample\MenuControlExample\obj\Debug\MenuControlExample.csprojResolveAssemblyReference.cache
+E:\c#\SEM6\MenuControlExample\MenuControlExample\obj\Debug\MenuControlExample.dll
+E:\c#\SEM6\MenuControlExample\MenuControlExample\obj\Debug\MenuControlExample.pdb
