@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MenuItems>
+  <Home display="Home" url="~/Home.aspx" />
+  <AboutUs display="AboutUs" url="~/AboutUs.aspx" />
+  <ContactUs display="ContactUs" url="~/ContactUs.aspx" />
+  <Gallery display="Gallary" url="~/Gallary.aspx" />
+</MenuItems>
